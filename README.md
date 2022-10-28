@@ -33,5 +33,5 @@ Herança e Polimorfismo</b>.</p>
  <sub><b>Silvia Cristina Alexandre</b></sub></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Silvia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvia-cristina-alexandre)](https://www.linkedin.com/in/silvia-cristina-alexandre)
-[![Gmail Badge](https://img.shields.io/badge/-silviacristinaalexandre1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladsantoscavalcante@gmail.com)](mailto:camiladsantoscavalcante@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-silviacristinaalexandre1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silviacristinaalexandre1@gmail.com)](mailto:silviacristinaalexandre1@gmail.com)
 <hr>
